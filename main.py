@@ -32,6 +32,7 @@ for i in collection.find({"event_name" : event}):
   participants = i["Participants"]
 name = st.selectbox("Select your name for generating certificate", participants)
 
+name = name.capitalize()
 
 im = Image.open(PATH)
 d = ImageDraw.Draw(im)
