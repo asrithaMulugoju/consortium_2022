@@ -1,5 +1,2 @@
 streamlit==1.15.1
-pymongo==4.1.1
 pillow==9.1.1
-pymongo==4.1.1
-dnspython==2.2.1
