@@ -781,8 +781,7 @@ events_data = {
         "P.V. Srujan Reddy",
         "M. Santosh",
         "K. Arun Kumar",
-        "G. Chakradhar",
-        "Maram Manoj Reddy"
+        "G. Chakradhar"
     ],
     "TLE Hack": [
         "Narsimha reddy",
