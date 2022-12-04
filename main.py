@@ -78,7 +78,7 @@ events_data = {
         "Rashmika",
         "Srihitha",
         "Sriraj",
-        "Prashanth Sai Balaji Maguluri (22951A05F9)",
+        "Prashanth Sai Balaji Maguluri",
         "Sohail Ahmad",
         "Sai Varun",
         "Prachethan reddy",
@@ -258,14 +258,14 @@ events_data = {
         "Tejaswi"
     ],
     "Filmlet": [
-        "Harinder Reddy Lekkala-Team Bhaagavatham",
-        "Penugonda sai raghu ram-Rockers",
-        "Nitin krishna-Inevitables",
-        "Abhiram Choudhary B-Epic Failures",
-        "Charan sai-Nasha ",
-        "SANDEEP-Kanya Rashi",
-        "CHARAN -CHARAN team ",
-        "Hero-karthik-First film"
+        "Team Bhaagavatham",
+        "Team Rockers",
+        "Team Inevitables",
+        "Team Epic Failures",
+        "Team Nasha ",
+        "Team Kanya Rashi",
+        "Team Charan",
+        "Team First Film"
     ],
     "Grand Lens": [
         "A.CHAITANYA RAGHAVA",
@@ -468,7 +468,7 @@ events_data = {
         "Nithish",
         "Ganji Adithya"
     ],
-    "Sethu - The Alley Forging": [
+    "Sethu - The Ally Forging": [
         "Peesari jyothi",
         "Nayak Narsimha",
         "Sunkari Sai pranith ",
@@ -547,12 +547,12 @@ events_data = {
         "S. Morise Anthony",
         "Mohammed Amaan",
         "D. Sai Sandeep",
-        "Charan - VNRVJIET",
+        "Charan",
         "Rahul",
         "Kowshik Avilala",
         "K. Pratham",
         "Pavan",
-        "Charan - IARE",
+        "Charan",
         "Surendhar",
         "S. Vinod Kumar",
         "Surya Prabhas",
@@ -656,7 +656,11 @@ events_data = {
         "Bharath Arvapalli",
         "P. Prasana",
         "K. Sathvik",
-        "S. Ramakanth"
+        "S. Ramakanth",
+        "Shaik Gouse",
+        "Yakub samad",
+        "Aman afridi",
+        "Gouse madeena"
     ],
     "Teens Den - Free Fire": [
         "K. Shanmukh",
@@ -775,7 +779,8 @@ events_data = {
         "P.V. Srujan Reddy",
         "M. Santosh",
         "K. Arun Kumar",
-        "G. Chakradhar"
+        "G. Chakradhar",
+        "Maram Manoj Reddy"
     ],
     "TLE Hack": [
         "Narsimha reddy",
@@ -917,7 +922,7 @@ PATH = "./cert.png"
 # for i in names.keys():
 #     options.append(i)
 
-font = ImageFont.truetype("Poppins-Medium.ttf", 80)
+font = ImageFont.truetype("Poppins-Medium.ttf", 100)
 events = st.selectbox("Select Event name", events_data.keys())
 name = st.selectbox(
     "Select your name for generating certificate", events_data[events])
@@ -929,9 +934,9 @@ W, H = im.size
 w, h = d.textsize(name, font=font)
 e_w, e_h = d.textsize(events, font=font)
 print(w, h)
-d.text(((((W-w)/2) + 105, ((H - h)/2) + 300)),
+d.text(((((W-w)/2) + 105, ((H - h)/2) + 350)),
        name, fill=(56, 56, 56), font=font)
-d.text(((((W-e_w)/2) - 700, ((H - e_h)/2) + 500)),
+d.text(((((W-e_w)/2) - 850, ((H - e_h)/2) + 580)),
        events, fill=(56, 56, 56), font=font)
 if st.button("Get Certificate"):
     ioData = io.BytesIO()
