@@ -789,7 +789,7 @@ events_data = {
     "Teens Den - Online Chess Winner 1st Runner 2nd Runner ": [
       "Maram Manoj Reddy",
       "Gummidelli Chakradhar",
-      "M. Srinivas"
+      "Mandula Srinivas"
     ],
   
     "Teens Den - Online Chess": [
