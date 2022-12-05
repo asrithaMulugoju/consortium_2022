@@ -493,6 +493,18 @@ events_data = {
         "Choppari Naveen",
         "M Krishna Mohan"
     ],
+    "Teens Den - BGMI Winners": [
+        "M. Rahul",
+        "A. Paul Anurag",
+        "B. Yashwanth"
+        "Krishna"
+    ],
+    "Teens Den - BGMI Runners": [
+        "Sandeep Chowdary",
+        "Charan Pathapelly",
+        "Koushik Avilala"
+        "A. Rahul Bharadwaj"
+    ],
     "Teens Den - BGMI": [
         "Nagapuri Sanjay",
         "Sk. Shaheed",
@@ -623,6 +635,19 @@ events_data = {
         "Sai Ashmit",
         "Mukesh"
     ],
+    "Teens Den - Call of Duty Winners": [
+      "Umesh",
+      "S. Siddharth",
+      "Sri Varsh",
+      "A. Siddharth",
+    ],
+    "Teens Den - Call of Duty Runners": [
+      "Keerthan",
+      "Vignesh",
+      "Om Prakash",
+      "Phanish",
+    ],
+  
     "Teens Den - Call of Duty": [
         "Saketh Sri Harsha",
         "M. Prabhas",
@@ -663,7 +688,21 @@ events_data = {
         "Aman afridi",
         "Gouse madeena"
     ],
-    "Teens Den - Free Fire": [
+    "Teens Den - Free Fire MAX Winners": [
+      "Sai Kumar",
+      "Shiva",
+      "Navaneeth",
+      "Akhilesh"
+    ],
+  
+    "Teens Den - Free Fire MAX Runners": [
+      "Pavan Tej",
+      "Pavan Kumar",
+      "Procherry",
+      "Chaithu"
+    ],
+  
+    "Teens Den - Free Fire MAX": [
         "K. Shanmukh",
         "P. Sai Raghu Ram",
         "T. Rajesh",
@@ -746,6 +785,13 @@ events_data = {
         "J. Shiva",
         "G. Eshwar"
     ],
+  
+    "Teens Den - Online Chess Winner 1st Runner 2nd Runner ": [
+      "Maram Manoj Reddy",
+      "Gummidelli Chakradhar",
+      "M. Srinivas"
+    ],
+  
     "Teens Den - Online Chess": [
         "Maram Manoj Reddy",
         "Morise",
