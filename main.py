@@ -838,7 +838,7 @@ events_data = {
         "Jignyasa Gopalam",
         "yuvaraju",
         "mahanadha",
-        "Keerthana",
+        "Keerthana Palaparthy",
         "Pradeep",
         "ADABALA SREE PRANEETH MOHAN",
         "Mallik Narsina",
