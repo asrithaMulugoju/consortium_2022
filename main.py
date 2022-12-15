@@ -172,7 +172,14 @@ events_data = {
         "Sanskruthi",
         "Akshitha",
         "Sneha kancharla",
-        "Sameem haque"
+        "Sameem haque",
+        "CH.Namrutha",
+        "G.S Deepthi",
+        "T.Nikhil varma",
+        "Sai Akshay",
+        "B.Nishith",
+        "D.Sravya",
+        "M.Koushik reddy"
     ],
     "Enigma": [
         "Sowmya Siddanki",
