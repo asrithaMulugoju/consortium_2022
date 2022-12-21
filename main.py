@@ -501,7 +501,6 @@ events_data = {
         "M Krishna Mohan"
     ],
     "Teens Den - BGMI": [
-        "Nagapuri Sanjay",
         "Sk. Shaheed",
         "Shashidhar",
         "Sachin Kumar",
@@ -754,7 +753,6 @@ events_data = {
         "G. Eshwar"
     ],
     "Teens Den - Online Chess": [
-        "Maram Manoj Reddy",
         "Morise",
         "Harshaveer",
         "Mohammed Iyaz",
